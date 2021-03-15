@@ -3,6 +3,6 @@
 Before you run the app make sure that:
 1)MongoDB server is running (in Windows this can be checked in services)
 2)MongoDB environment variable path is set and MongoDB tools have been downloaded and saved into bin folder used for path
-3)Paste the three CSV files into Inputs_and_outputs folder before you start the app
+3)Paste the three CSV files  (add data if you need I just added few sample rows in the CSVs here) into a folder named 'Inputs_and_outputs' that sits in same directory of the Python files
 
-Then run GUI.py or run Run.ipynb in Jupyter
+Then you can run GUI.py in your IDE or cmd, or run Run.ipynb in Jupyter
